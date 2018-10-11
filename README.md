@@ -3,7 +3,7 @@
 2. The prediction is calculated based on causes such as:
 	1. **Rainfall** in the area
 	2. The **Elevation** of the area
-	3. Intensity of **Clouds** in the area at a given time which can cause “Cloudbursts”
+	3. Intensity of **Clouds** in the area at a given time which can cause **Cloudbursts**
 	4. Number of **Trees** in that area which helps in preventing floods
   	5. Whether the area is along the **Coastal** region
 	6. Whether the area is near a **River** source
@@ -55,10 +55,10 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has two advantages:
 &emsp;* By calculating the number of trees in an area, 
 
-5. The datasets used are:
-&emsp;	1. Layout of the functioning sewage pipelines from the local administrative body.
-&emsp;	2. Data of previous floods in an area from National Disaster Management Authority
-&emsp;	3. Data of earthquake prone areas from National Disaster Management Authority
+5. The datasets used are:	
+1. Layout of the functioning sewage pipelines from the local administrative body.	
+2. Data of previous floods in an area from National Disaster Management Authority	
+3. Data of earthquake prone areas from National Disaster Management Authority
 6. The technology used are:
 &emsp; 1. Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
 &emsp; 2. Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
