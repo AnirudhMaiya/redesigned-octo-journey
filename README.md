@@ -56,12 +56,12 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 &emsp;* By calculating the number of trees in an area, 
 
 5. The datasets used are:
-&emsp;	* Layout of the functioning sewage pipelines from the local administrative body.
-&emsp;	* Data of previous floods in an area from National Disaster Management Authority
-&emsp;	* Data of earthquake prone areas from National Disaster Management Authority
+&emsp;	1. Layout of the functioning sewage pipelines from the local administrative body.
+&emsp;	2. Data of previous floods in an area from National Disaster Management Authority
+&emsp;	3. Data of earthquake prone areas from National Disaster Management Authority
 6. The technology used are:
-&emsp; * Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
-&emsp; * Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
+&emsp; 1. Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
+&emsp; 2. Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
 	
 
 
