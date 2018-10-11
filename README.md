@@ -1,5 +1,4 @@
-1)We are planning to come up with a mathematical modal which predicts areas that are prone to "Flooding" based on their rating.<br> Higher the rating, higher are the chances of disaster.
-<pre>
+1)We are planning to come up with a mathematical modal which predicts areas that are prone to "Flooding" based on their rating.Higher the rating, higher are the chances of disaster.<br>
 2)The prediction is calculated based on causes such as:
 	a)Rainfall in the area
 	b)The Elevation of the area
