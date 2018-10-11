@@ -1,3 +1,3 @@
 Cause N:     pN 
 -----------------   
-<sub>i=1</sub><sup> N</sup>∑pi  =1 
+<sub>i=1</sub><sup>N</sup>∑pi  =1 
