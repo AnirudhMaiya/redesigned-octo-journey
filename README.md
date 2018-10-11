@@ -53,16 +53,16 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 ![second element](https://latex.codecogs.com/gif.latex?f%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20I_i%20%5Ctimes%20P_i)<br>
 *where f is the disaster rating of one particular area. Higher the f value, higher are the chances of flood disaster.*
 
-
+<br>
 4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has two advantages:
 	1. By calculating the number of trees in an area, 
 
-
+<br>
 5. The datasets used are:	
 	1. Layout of the functioning sewage pipelines from the local administrative body.	
 	2. Data of previous floods in an area from National Disaster Management Authority	
 	3. Data of earthquake prone areas from National Disaster Management Authority
-
+<br>
 
 6. The technology used are:
  	1. Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
