@@ -45,20 +45,23 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 		  .<br>
  Cause N:&emsp;  **I<sub>N</sub>** &emsp;&emsp;                      (intensity of cause N in that area) 
 
-**--------------------**
+--------------------
+
  If we take the product of **intensity** and **probability** of causes in one particular area we get the disaster rating
  
 ![second element](https://latex.codecogs.com/gif.latex?f%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20I_i%20%5Ctimes%20P_i)<br>
-*where f is the disaster rating of each area. Higher the f value, higher are the chances of flood disaster.*
+*where f is the disaster rating of one particular area. Higher the f value, higher are the chances of flood disaster.*
 
-Users can contribute by mapping all the trees in an area which are useful in preventing floods.  
-The datasets used are:
-	Layout of the functioning sewage pipelines from the local administrative body.
-	Data of previous floods in an area from National Disaster Management Authority
-	Data of earthquake prone areas from National Disaster Management Authority
-The technology used are:
-	Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
-	Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
+4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has two advantages:
+&emsp;* By calculating the number of trees in an area, 
+
+5. The datasets used are:
+&emsp;	* Layout of the functioning sewage pipelines from the local administrative body.
+&emsp;	* Data of previous floods in an area from National Disaster Management Authority
+&emsp;	* Data of earthquake prone areas from National Disaster Management Authority
+6. The technology used are:
+&emsp; * Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
+&emsp; * Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
 	
 
 
