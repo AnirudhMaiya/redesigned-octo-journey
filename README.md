@@ -33,9 +33,10 @@ Cause N:&emsp;    p<sub>N</sub>
 -----------------   
 &emsp; &emsp; ![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P_i%20%3D%201)
 -----------------
-<br>
-<br>
-Now let us isolate an area. 
+
+
+Now let us isolate an area
+
 Cause 1:&emsp;   I<sub>1</sub>  &emsp;&emsp;                      (intensity of cause 1 in that area)&emsp;      I1 ∈ [0,1]
 
 Cause 2:&emsp;   I<sub>2</sub>  &emsp;&emsp;                      (intensity of cause 2 in that area)&emsp;      I2 ∈[0,1]
@@ -43,9 +44,12 @@ Cause 2:&emsp;   I<sub>2</sub>  &emsp;&emsp;                      (intensity of 
                   .<br>
 		  .<br>
  Cause N:&emsp;  I<sub>N</sub>                       (intensity of cause N in that area) 
+
+--------------------
+ If we take the product of intensity and probability of causes in one particular area we get the disaster rating
  
 ![second element](https://latex.codecogs.com/gif.latex?f%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20I_i%20%5Ctimes%20P_i)<br>
-**where f is the disaster rating of each area. Higher the f value, higher are the chances of flood disaster.
+*where f is the disaster rating of each area. Higher the f value, higher are the chances of flood disaster.*
 
 Users can contribute by mapping all the trees in an area which are useful in preventing floods.  
 The datasets used are:
