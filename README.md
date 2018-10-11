@@ -31,7 +31,7 @@ Cause 2:&emsp;     p<sub>2</sub>&emsp;&emsp;(chance or probability of this cause
 Cause N:&emsp;    p<sub>N</sub>
 
 -----------------   
-&emsp;&emsp; ![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%20%3D%201)
+&emsp; &emsp; &emsp;&emsp;&ensp; ![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%20%3D%201)
 
 Now let us isolate an area. 
 Cause 1:   I1                        (intensity of cause 1 in that area)      I1 ∈ [0,1]
