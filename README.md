@@ -1,4 +1,8 @@
 # redesigned-octo-journey
-|anirudh|
-
-
+                                                     #|anirudh|
+                                                     / |    
+                                                    /  |
+                                                   /   |
+                                                  /    |
+                                                 / 
+                                              
