@@ -33,9 +33,9 @@ Cause N:&emsp;    **p<sub>N</sub>**
 -----------------   
 &emsp; &emsp; ![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P_i%20%3D%201)
 -----------------
-
-
-Now let us isolate an area
+<br>
+<br>
+Now let us isolate an area and find the intensity of each cause which can cause a disaster
 
 Cause 1:&emsp;   **I<sub>1</sub>**  &emsp;&emsp;                      (intensity of cause 1 in that area)&emsp;      I<sub>1</sub> ∈ [0,1]
 
@@ -52,8 +52,10 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 ![second element](https://latex.codecogs.com/gif.latex?f%20%3D%20%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20I_i%20%5Ctimes%20P_i)<br>
 *where f is the disaster rating of one particular area. Higher the f value, higher are the chances of flood disaster.*
 
+
 4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has two advantages:
 	1. By calculating the number of trees in an area, 
+
 
 5. The datasets used are:	
 	1. Layout of the functioning sewage pipelines from the local administrative body.	
