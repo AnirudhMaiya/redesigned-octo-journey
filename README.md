@@ -43,7 +43,8 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
                   .<br>
                   .<br>
 		  .<br>
- Cause N:&emsp;  **I<sub>N</sub>** &emsp;&emsp;                      (intensity of cause N in that area) 
+		  .<br>
+ Cause N:&emsp;  **I<sub>N</sub>** &emsp;&emsp;                      (intensity of cause N in that area)&emsp;I<sub>1</sub> ∈ [0,1]
 
 --------------------
 
@@ -61,6 +62,8 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 	1. Layout of the functioning sewage pipelines from the local administrative body.	
 	2. Data of previous floods in an area from National Disaster Management Authority	
 	3. Data of earthquake prone areas from National Disaster Management Authority
+
+
 6. The technology used are:
  	1. Satellite imagery from Google Maps to find elevation of an area, river, ocean sources and mountains close to an area.
 	2. Images of intensity of clouds and rainfall using satellite imagery from Accuweather.
