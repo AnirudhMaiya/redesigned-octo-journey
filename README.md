@@ -44,7 +44,7 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
                   .<br>
 		  .<br>
 		  .<br>
- Cause N:&emsp;  **I<sub>N</sub>** &emsp;&emsp;                      (intensity of cause N in that area)&emsp;I<sub>1</sub> ∈ [0,1]
+ Cause N:&emsp;  **I<sub>N</sub>** &emsp;&emsp;                      (intensity of cause N in that area)&emsp;I<sub>N</sub> ∈ [0,1]
 
 --------------------
 
