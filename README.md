@@ -1,5 +1,5 @@
-<pre>
 1)We are planning to come up with a mathematical modal which predicts areas that are prone to "Flooding" based on their rating.<br> Higher the rating, higher are the chances of disaster.
+<pre>
 2)The prediction is calculated based on causes such as:
 	a)Rainfall in the area
 	b)The Elevation of the area
@@ -10,7 +10,9 @@
 	g)Functioning "Sewage" pipelines in the area
 	h)Whether the area is close to seas and has an epicentre for "Earthquake" which in turn creates Tsunamis
 	i)Whether the area is previously affected by floods
-	j)Whether the area is close to any "Mountain", which can cause flooding when the glacier on the mountain melts
+	j)Whether the area is close to any "Mountain", which can cause flooding when the glacier 
+	on the mountain melts
+</pre>
 3)The outline of the mathematical model is as follows:
 	Suppose there are 'N' causes which creates a water-borne disaster like flood.
 	For each of these 'N' causes, let p<sub>1</sub> ,p<sub>2</sub>, p<sub>3</sub> ,p<sub>4</sub>,.... p<sub>N</sub>  be the 	Chance or Probability of that Cause causing a Disaster. 
