@@ -24,12 +24,13 @@ General Mathematical Model
 Cause 1:&emsp;     p<sub>1</sub>&emsp;&emsp;(chance or probability of this cause creating a water-borne disaster)
 
 Cause 2:&emsp;     p<sub>2</sub>&emsp;&emsp;(chance or probability of this cause creating a water-borne disaster)
-      
-Cause N:     p<sub>N</sub> 
+      .<br>
+      .<br>
+      .<br>
+Cause N:&emsp;     p<sub>N</sub> 
 
 -----------------   
  ![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%20%3D%201)
-
 
 Now let us isolate an area. 
 Cause 1:   I1                        (intensity of cause 1 in that area)      I1 ∈ [0,1]
