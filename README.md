@@ -29,7 +29,7 @@ Cause 2:     p<sub>2</sub>               (chance or probability of this cause cr
 Cause N:     p<sub>N</sub> 
 -----------------   
 </pre>
-![first example](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%20%3D%201)
+![first equation](https://latex.codecogs.com/gif.latex?%5Csum_%7Bi%3D1%7D%5E%7Bn%7D%20P%20%3D%201)
 
 Now let us isolate an area. 
 Cause 1:   I1                        (intensity of cause 1 in that area)      I1 ∈ [0,1]
