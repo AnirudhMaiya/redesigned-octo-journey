@@ -54,8 +54,8 @@ Cause 2:&emsp;   **I<sub>2</sub>**  &emsp;&emsp;                      (intensity
 *where f is the disaster rating of one particular area. Higher the f value, higher are the chances of flood disaster.*
 
 <br>
-4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has an advantage which is:
-	1. By calculating the number of trees in an area, we can come to know about the real picture of deforestation in that area.  
+4. Users can contribute by mapping all the trees in an area which are useful in preventing floods. This in turn has an advantage which is:<br>
+&emsp;	1. By calculating the number of trees in an area, we can come to know about the real picture of deforestation in that 			area.  
 
 5. The datasets used are:	
 	1. Layout of the functioning sewage pipelines from the local administrative body.	
